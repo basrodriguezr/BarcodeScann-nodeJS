@@ -1,0 +1,3 @@
+C:\Users\brodriguez\OneDrive - Loteria de Concepcion\Escritorio\learningDEV\ZXing BarCodeScann\obj\Debug\ZXing BarCodeScann.njsproj.AssemblyReference.cache
+C:\Users\brodriguez\OneDrive - Loteria de Concepcion\Escritorio\learningDEV\ZXing BarCodeScann\obj\Debug\ZXing BarCodeScann.njsproj.CoreCompileInputs.cache
+C:\Users\brodriguez\OneDrive - Loteria de Concepcion\Escritorio\learningDEV\ZXing BarCodeScann\bin\Microsoft.NodejsTools.WebRole.dll
